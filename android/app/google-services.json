@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057396256554",
+    "project_id": "play-tv-4k",
+    "storage_bucket": "play-tv-4k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057396256554:android:0d111411e9df282e697853",
+        "android_client_info": {
+          "package_name": "com.play_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057396256554-975vg43mvrkip765175n03fg84cemfh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXWBKlSokwpi6ZnFKgj9VbGWglB-Y5nVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057396256554-975vg43mvrkip765175n03fg84cemfh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

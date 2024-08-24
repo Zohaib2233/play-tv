@@ -1,0 +1,9 @@
+{
+  "login_header": "connectez-vous à l'application en utilisant l'un des types de connexion donnés pour une meilleure expérience",
+  "login_google": "se connecter avec Google",
+  "login_facebook": "se connecter avec Facebook",
+  "login_footer_one": "En chantant, vous acceptez ",
+  "login_footer_two": "nos conditions d'utilisation ",
+  "login_footer_three": "et ",
+  "login_footer_four": "notre politique de confidentialité"
+}

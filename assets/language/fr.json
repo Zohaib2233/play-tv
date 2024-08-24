@@ -1,0 +1,16 @@
+{
+  "login_header": "connectez-vous à l'application en utilisant l'un des types de connexion donnés pour une meilleure expérience",
+  "login_google": "se connecter avec Google",
+  "login_facebook": "se connecter avec Facebook",
+  "login_footer_one": "En chantant, vous acceptez ",
+  "login_footer_two": "nos conditions d'utilisation ",
+  "login_footer_three": "et ",
+  "login_footer_four": "notre politique de confidentialité",
+  "info_tv_text":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux",
+
+  "login":"se connecter",
+  "signup" : "s'inscrire",
+  "create_new_account":"ou créer un nouveau compte",
+  "already_have_account":"ou avez déjà un compte",
+  "login_with":"Connectez-vous avec"
+}

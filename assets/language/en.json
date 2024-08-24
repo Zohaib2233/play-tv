@@ -1,0 +1,21 @@
+{
+  "login_header": "Login to the app using one of the given login types for better experience",
+  "login_google": "Log in with Google",
+  "login_facebook": "Log in with Facebook",
+  "login_footer_one": "By singing, you accept ",
+  "login_footer_two": "our terms of use ",
+  "login_footer_three": "and ",
+  "login_footer_four": "our privacy policy",
+  "info_tv_text": "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout, the final text replacing the false text as soon as it is ready or the layout is completed. Generally, we use a false text",
+  "LOGIN_SUCCESSFULLY": "LOGIN SUCCESSFULLY",
+  "LOGOUT_SUCCESSFULLY": "LOGOUT SUCCESSFULLY",
+  "ENTER_CHANNEL_NAME": "Enter Channel Name",
+
+  "login": "Login",
+  "signup":"Signup",
+  "create_new_account":"or create a new account",
+  "already_have_account":"or already have account",
+  "login_with":"Login with"
+
+
+}
